@@ -1,0 +1,38 @@
+/* AEONIK PRO */
+@font-face {
+    font-family: 'aeonik_pro_bold';
+    src: url('aeonikpro-bold-webfont.woff2') format('woff2'),
+         url('aeonikpro-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aeonik_pro_light';
+    src: url('aeonikpro-light-webfont.woff2') format('woff2'),
+         url('aeonikpro-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aeonik_pro_regular';
+    src: url('aeonikpro-regular-webfont.woff2') format('woff2'),
+         url('aeonikpro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* BN NAUTIC GROTESQUE */
+@font-face {
+    font-family: 'bn_nautic_groteskbold';
+    src: url('bn-nauticgroteskbold-webfont.woff2') format('woff2'),
+         url('bn-nauticgroteskbold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
